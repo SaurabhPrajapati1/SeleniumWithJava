@@ -30,10 +30,10 @@ public class HashMapExample {
 
 
 		HashMap<String, String> empDetails = new HashMap<String, String>();
-		empDetails.put("firstName", "Raj");
+		empDetails.put("firstName", "Saurabh");
 		empDetails.put("lastName", "Kumar");
 		empDetails.put("gender", "Male");
-		empDetails.put("emailId", "r.rajkumar1514@gmail.com");
+		empDetails.put("emailId", "Saurabhgzb1997@gmail.com");
 		empDetails.put("mobileNumber", "9818922698");
 		empDetails.put("city", "Noida");
 		empDetails.put("city", "Delhi"); // Always consider the last updated value
